@@ -1,0 +1,1 @@
+# scadabr-build-manifest
