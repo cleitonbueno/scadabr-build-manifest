@@ -71,7 +71,7 @@ your connection.
 **4.  Initialize the Yocto Project Build Environment.**
 
     $ source poky-krogoth/oe-init-build-env build-scadabr  
-    $ source ./poky/oe-init-build-env
+
 
 **Change 1:**
 Edit build-scadabr/conf/local.conf and modify or add only the fields below:
