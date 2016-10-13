@@ -9,7 +9,7 @@
   <remote fetch="git://github.com/cleitonbueno"                     name="b2open-layer"/>
 
   <project remote="yocto-layer"     revision="4376fb851791a1fb514873ad239d516dd7159341" name="poky"                 path="poky-krogoth"/>
-  <project remote="yocto-layer"     revision="master"                                   name="meta-java"            path="poky-krogoth/meta-java"/>
+  <project remote="yocto-layer"     revision="6823b0b1449b5047c1800589bb44ead79d7a5c00" name="meta-java"            path="poky-krogoth/meta-java"/>
   <project remote="fsl-layer"       revision="3f34509381092a893b8efe4451018b8d67a5abf6" name="meta-fsl-arm"         path="poky-krogoth/meta-fsl-arm"/>
   <project remote="fsl-layer"       revision="698cf389aa446244a39b597fbf58be1d55096500" name="meta-fsl-arm-extra"   path="poky-krogoth/meta-fsl-arm-extra"/>
   <project remote="oe-layer"        revision="247b1267bbe95719cd4877d2d3cfbaf2a2f4865a" name="meta-openembedded"    path="poky-krogoth/meta-openembedded"/>
