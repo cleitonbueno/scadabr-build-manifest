@@ -163,7 +163,7 @@ the block device by running `dmesg`. Now you can run the script as following:
 If no errors occur, done!
 
 
-**7. Download and install ScadaBR
+**7. Download and install ScadaBR:**
 
 To download ScadaBR:
     
