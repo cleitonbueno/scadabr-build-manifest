@@ -127,7 +127,6 @@ Edit build-scadabr/conf/bblayers.conf
         ${TOPDIR}/../poky-krogoth/meta-java \
         ${TOPDIR}/../poky-krogoth/meta-fsl-arm \
         ${TOPDIR}/../poky-krogoth/meta-fsl-arm-extra \
-        ${TOPDIR}/../poky-krogoth/meta-yocto-bsp \
         "
 
 **Obs:**
