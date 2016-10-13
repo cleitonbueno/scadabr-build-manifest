@@ -163,6 +163,21 @@ the block device by running `dmesg`. Now you can run the script as following:
 If no errors occur, done!
 
 
+**7. Download and install ScadaBR
+
+To download ScadaBR:
+    
+    http://www.scadabr.com.br/?q=downloads
+
+
+To install see how to deploy on Tomcat.
+
+
+Then go:
+
+    http://IP_BOARD:8080/ScadaBR
+
+
 License
 -------------------
 
