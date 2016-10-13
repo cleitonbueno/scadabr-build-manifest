@@ -162,6 +162,13 @@ the block device by running `dmesg`. Now you can run the script as following:
 
 If no errors occur, done!
 
+
+License
+-------------------
+
+**MIT License**
+
+
 Suggestions/Problems
 -------------------
 **E-mail:** cleiton.bueno at b2open.com
